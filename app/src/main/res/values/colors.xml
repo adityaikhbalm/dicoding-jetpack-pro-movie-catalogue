@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorYellow">#ffe234</color>
+    <color name="favorite_selected">#E15050</color>
+    <color name="high_dark">#1D2026</color>
+    <color name="medium_dark">#20242A</color>
+    <color name="low_dark">#2B3038</color>
+    <color name="base_dark">#181A1F</color>
+    <color name="high_white">#DEFFFFFF</color>
+    <color name="medium_white">#99FFFFFF</color>
+    <color name="low_white">#61FFFFFF</color>
+</resources>

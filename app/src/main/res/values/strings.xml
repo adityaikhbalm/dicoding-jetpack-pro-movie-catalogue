@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BAJP</string>
+    <string name="movie">Movies</string>
+    <string name="tv_show">Tv Shows</string>
+    <string name="favorite">Favorite</string>
+    <string name="overview">Overview</string>
+    <string name="info_description">Info</string>
+    <string name="poster_description">Poster</string>
+    <string name="background_description">Background</string>
+    <string name="no_internet">There is no internet connection</string>
+    <string name="timeout">Connection timeout</string>
+    <string name="votes">votes</string>
+    <string name="language">Language</string>
+    <string name="release_date">Release date</string>
+    <string name="no_translations">There are no translations in this language</string>
+</resources>
